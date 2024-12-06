@@ -476,6 +476,7 @@
       "cooked_mutton": "2024-12-05 22:59:56 +0000",
       "cooked_beef": "2024-12-05 23:39:47 +0000",
       "apple": "2024-12-05 23:49:40 +0000",
+      "rotten_flesh": "2024-12-06 22:45:41 +0000",
       "carrot": "2024-12-05 23:45:41 +0000"
     },
     "done": false
@@ -1009,6 +1010,7 @@
       "minecraft:cave_spider": "2024-12-05 23:46:02 +0000",
       "minecraft:enderman": "2024-12-05 23:01:48 +0000",
       "minecraft:stray": "2024-12-05 23:20:08 +0000",
+      "minecraft:silverfish": "2024-12-06 22:48:41 +0000",
       "minecraft:zombie": "2024-12-05 23:04:17 +0000"
     },
     "done": false
@@ -1346,6 +1348,36 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 23:51:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-06 22:42:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:44:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-06 22:43:41 +0000"
     },
     "done": true
   },

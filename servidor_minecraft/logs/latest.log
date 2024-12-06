@@ -2880,3 +2880,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 22:40:47.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has made the advancement [Mysterious Gift]
 [06Dec2024 22:40:47.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
 [06Dec2024 22:41:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [Alex's Mobs]
+[06Dec2024 22:42:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has made the advancement [A Strange Grave Dust]
+[06Dec2024 22:43:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai withered away
+[06Dec2024 22:43:39.659] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 22:43:41.169] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:43:41.169] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 22:43:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has made the advancement [The Most Useful Key]
+[06Dec2024 22:43:45.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported Judai to sebasjuega]
+[06Dec2024 22:44:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has reached the goal [Chain Death]
+[06Dec2024 22:44:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was shot by Stray
+[06Dec2024 22:44:08.492] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 22:44:10.092] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:44:10.093] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 22:44:12.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 22:44:12.540] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 22:44:14.883] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:44:14.886] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 22:44:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [The Most Useful Key]
+[06Dec2024 22:44:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Zombie
+[06Dec2024 22:44:45.204] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 22:44:45.486] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 22:44:45.487] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 28 is dual wielding: false
+[06Dec2024 22:44:45.487] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 22:44:45.487] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 22:44:45.487] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 22:44:46.606] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:44:46.607] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 22:46:44.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Made sebasjuega a server operator]
+[06Dec2024 22:47:04.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was burnt to a crisp whilst fighting Wither Skeleton
+[06Dec2024 22:47:04.543] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 22:47:04.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 22:47:04.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Dec2024 22:47:04.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 22:47:04.839] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 22:47:04.840] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[06Dec2024 22:47:05.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:47:05.926] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 22:48:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 22:48:49.888] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 22:48:51.502] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:48:51.503] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 22:49:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai withered away
+[06Dec2024 22:49:08.082] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 22:49:09.764] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:49:09.765] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 22:50:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 22:50:52.491] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 22:50:53.889] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 22:50:53.890] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
