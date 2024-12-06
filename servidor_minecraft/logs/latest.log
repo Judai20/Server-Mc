@@ -3061,3 +3061,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 23:13:02.253] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
 [06Dec2024 23:13:03.514] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [06Dec2024 23:13:03.515] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:13:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:13:18.642] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:13:19.951] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:13:19.952] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:13:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:13:38.079] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:13:39.436] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:13:39.438] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:17:54.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was shot by Stray
+[06Dec2024 23:17:54.485] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:17:55.752] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:17:55.754] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:17:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:17:56.094] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:17:56.210] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 23:17:56.211] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 30 is dual wielding: false
+[06Dec2024 23:17:56.211] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 23:17:56.212] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 23:17:56.212] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 23:17:57.429] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:17:57.429] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:18:20.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:18:20.532] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:18:21.847] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:18:21.848] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:18:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was shot by Stray
+[06Dec2024 23:18:30.150] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:18:31.550] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:18:31.551] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:18:45.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:18:45.179] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:18:46.939] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:18:46.940] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:19:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:19:36.934] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:19:38.360] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:19:38.360] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:19:56.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:19:56.587] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:19:57.951] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:19:57.951] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:21:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [Where Is The Stone Pen?]
