@@ -7843,3 +7843,100 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 23:02:18.476] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [06Dec2024 23:02:19.551] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [06Dec2024 23:02:19.551] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:04:09.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:04:09.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:04:52.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has reached the goal [A Fast Comeback]
+[06Dec2024 23:05:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has made the advancement [Take Aim]
+[06Dec2024 23:05:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was killed trying to hurt Stray
+[06Dec2024 23:05:20.715] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-316, y:43, z:-272, dim:minecraft:overworld]
+[06Dec2024 23:05:20.734] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:05:22.126] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:05:22.126] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:05:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:05:54.930] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-311, y:43, z:-268, dim:minecraft:overworld]
+[06Dec2024 23:05:54.932] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:05:56.294] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:05:56.295] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:05:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Eye of the Tiger]
+[06Dec2024 23:07:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Spider
+[06Dec2024 23:07:05.625] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-316, y:43, z:-263, dim:minecraft:overworld]
+[06Dec2024 23:07:05.634] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:07:06.926] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:07:06.927] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:07:34.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:07:34.526] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-315, y:42, z:-263, dim:minecraft:overworld]
+[06Dec2024 23:07:34.546] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:07:35.912] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:07:35.913] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:07:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has reached the goal [Bone Crusher]
+[06Dec2024 23:08:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:08:27.081] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-317, y:43, z:-264, dim:minecraft:overworld]
+[06Dec2024 23:08:27.084] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:08:27.406] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 23:08:27.406] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Dec2024 23:08:27.406] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 23:08:27.406] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 23:08:27.406] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 23:08:28.477] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:08:28.477] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:08:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:08:38.430] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:08:39.826] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:08:39.826] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:09:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:09:01.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-320, y:43, z:-264, dim:minecraft:overworld]
+[06Dec2024 23:09:01.834] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:09:01.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 23:09:01.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[06Dec2024 23:09:01.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 23:09:01.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 23:09:01.838] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 23:09:03.336] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:09:03.336] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:09:09.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:09:09.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:09:49.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:09:49.579] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-320, y:43, z:-265, dim:minecraft:overworld]
+[06Dec2024 23:09:49.584] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:09:50.999] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:09:50.999] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:10:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:10:34.830] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-318, y:43, z:-264, dim:minecraft:overworld]
+[06Dec2024 23:10:34.832] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:10:36.116] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:10:36.116] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:11:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was shot by Stray
+[06Dec2024 23:11:08.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player Judai was created at position [x:-309, y:43, z:-275, dim:minecraft:overworld]
+[06Dec2024 23:11:08.496] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:11:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:11:08.756] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-315, y:43, z:-266, dim:minecraft:overworld]
+[06Dec2024 23:11:08.762] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:11:09.071] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 23:11:09.072] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Dec2024 23:11:09.072] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 23:11:09.073] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 23:11:09.073] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 23:11:09.897] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:11:09.914] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:11:10.048] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:11:10.049] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:11:48.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:11:48.280] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-317, y:43, z:-263, dim:minecraft:overworld]
+[06Dec2024 23:11:48.282] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:11:49.726] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:11:49.727] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:12:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:12:17.227] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-318, y:43, z:-271, dim:minecraft:overworld]
+[06Dec2024 23:12:17.232] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:12:18.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:12:18.711] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:12:32.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:12:32.881] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-318, y:43, z:-268, dim:minecraft:overworld]
+[06Dec2024 23:12:32.887] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:12:34.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:12:34.244] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:13:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was shot by Stray
+[06Dec2024 23:13:02.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebasjuega was created at position [x:-310, y:43, z:-270, dim:minecraft:overworld]
+[06Dec2024 23:13:02.253] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:13:03.514] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:13:03.515] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

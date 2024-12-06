@@ -1023,6 +1023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-06 23:00:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 23:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-06 22:51:05 +0000"
@@ -1050,6 +1062,12 @@
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-06 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 23:04:52 +0000"
     },
     "done": true
   },
