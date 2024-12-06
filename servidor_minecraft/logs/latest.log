@@ -3103,3 +3103,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 23:19:57.951] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [06Dec2024 23:19:57.951] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [06Dec2024 23:21:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [Where Is The Stone Pen?]
+[06Dec2024 23:23:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 23:23:43.984] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:23:45.375] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:23:45.375] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:24:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega withered away
+[06Dec2024 23:24:10.580] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:24:12.149] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:24:12.150] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:24:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
+[06Dec2024 23:25:01.543] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Judai})
+[06Dec2024 23:26:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:26:12.580] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:26:14.010] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:26:14.011] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:26:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 23:26:23.731] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:26:25.707] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:26:25.708] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:26:54.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:26:54.883] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:26:56.432] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:26:56.432] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 23:27:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:27:03.481] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:27:04.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Vampire
+[06Dec2024 23:27:04.889] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:27:05.045] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:05.045] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:27:06.260] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:06.261] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:27:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:27:20.181] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:27:21.596] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:21.597] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:27:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:27:29.686] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:27:31.130] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:31.131] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:27:49.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:27:49.733] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:27:49.786] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Dec2024 23:27:49.786] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[06Dec2024 23:27:49.786] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Dec2024 23:27:49.787] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Dec2024 23:27:49.787] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Dec2024 23:27:51.201] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:51.202] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:27:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 23:27:55.633] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:27:57.036] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:27:57.036] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:28:06.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 23:28:06.583] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:28:07.946] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:28:07.947] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:28:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Wither Skeleton
+[06Dec2024 23:28:14.036] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:28:15.339] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:28:15.339] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Dec2024 23:28:24.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Wither Skeleton
+[06Dec2024 23:28:24.432] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[06Dec2024 23:28:25.825] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:28:25.825] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Dec2024 23:28:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai withered away
+[06Dec2024 23:28:35.732] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[06Dec2024 23:28:37.078] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 23:28:37.079] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
