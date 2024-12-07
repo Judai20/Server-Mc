@@ -479,6 +479,7 @@
       "bread": "2024-12-06 22:55:46 +0000",
       "golden_apple": "2024-12-06 23:01:51 +0000",
       "rotten_flesh": "2024-12-06 22:45:41 +0000",
+      "golden_carrot": "2024-12-07 17:53:08 +0000",
       "carrot": "2024-12-05 23:45:41 +0000"
     },
     "done": false
@@ -1009,6 +1010,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-05 23:19:41 +0000",
       "minecraft:spider": "2024-12-06 22:56:14 +0000",
+      "minecraft:creeper": "2024-12-07 18:02:23 +0000",
       "minecraft:wither_skeleton": "2024-12-05 23:55:34 +0000",
       "minecraft:cave_spider": "2024-12-05 23:46:02 +0000",
       "minecraft:enderman": "2024-12-05 23:01:48 +0000",
@@ -1591,6 +1593,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-07 17:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-07 17:55:17 +0000"
     },
     "done": true
   },

@@ -279,3 +279,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:40:23.660] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [07Dec2024 17:40:23.660] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [07Dec2024 17:40:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
+[07Dec2024 17:53:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported Judai to sebasjuega]
+[07Dec2024 18:06:11.034] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
