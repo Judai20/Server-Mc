@@ -184,6 +184,7 @@
       "beef": "2024-12-05 23:55:07 +0000",
       "porkchop": "2024-12-05 23:34:51 +0000",
       "apple": "2024-12-05 23:19:00 +0000",
+      "potato": "2024-12-07 18:08:37 +0000",
       "pumpkin_pie": "2024-12-06 22:54:05 +0000",
       "mutton": "2024-12-05 23:09:07 +0000",
       "golden_apple": "2024-12-05 23:43:45 +0000",
@@ -1224,6 +1225,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 18:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 18:08:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
@@ -1251,6 +1264,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 18:08:10 +0000"
     },
     "done": true
   },

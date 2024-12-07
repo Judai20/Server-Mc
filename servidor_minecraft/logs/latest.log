@@ -281,3 +281,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:40:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
 [07Dec2024 17:53:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported Judai to sebasjuega]
 [07Dec2024 18:06:11.034] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[07Dec2024 18:14:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
+[07Dec2024 18:15:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Sir Pumpkinhead
+[07Dec2024 18:15:03.034] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 18:15:03.180] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 18:15:03.181] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[07Dec2024 18:15:03.183] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Dec2024 18:15:03.183] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Dec2024 18:15:03.184] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[07Dec2024 18:15:04.358] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 18:15:04.359] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
