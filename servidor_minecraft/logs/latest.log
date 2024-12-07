@@ -232,3 +232,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:35:38.284] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
 [07Dec2024 17:35:39.733] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [07Dec2024 17:35:39.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Dec2024 17:37:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:37:24.988] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:37:26.410] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:37:26.411] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 17:37:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:37:48.480] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:37:49.848] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:37:49.848] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 17:37:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:37:58.991] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:38:05.130] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:38:05.130] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Dec2024 17:38:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Zombie
+[07Dec2024 17:38:57.995] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[07Dec2024 17:38:59.275] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:38:59.276] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Dec2024 17:38:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Corpse Maggot
+[07Dec2024 17:38:59.995] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:39:00.042] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 17:39:00.042] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[07Dec2024 17:39:00.042] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Dec2024 17:39:00.043] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Dec2024 17:39:00.043] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Dec2024 17:39:01.276] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:39:01.276] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Dec2024 17:39:45.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:39:45.286] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:39:47.259] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:39:47.260] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 17:39:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:39:56.091] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:39:57.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:39:57.389] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Dec2024 17:40:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:40:09.438] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:40:09.653] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 17:40:09.654] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[07Dec2024 17:40:09.654] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Dec2024 17:40:09.654] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Dec2024 17:40:09.654] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Dec2024 17:40:10.712] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:40:10.712] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 17:40:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Zombie
+[07Dec2024 17:40:22.306] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[07Dec2024 17:40:23.660] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 17:40:23.660] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 17:40:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
