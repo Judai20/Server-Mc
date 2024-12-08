@@ -25,10 +25,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-08 01:52:34 +0000",
       "minecraft:taiga": "2024-12-05 21:49:34 +0000",
+      "minecraft:dark_forest": "2024-12-08 01:53:41 +0000",
       "minecraft:river": "2024-12-07 18:15:57 +0000",
       "minecraft:dripstone_caves": "2024-12-05 23:47:45 +0000",
       "minecraft:forest": "2024-12-05 22:18:11 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 01:54:03 +0000",
       "minecraft:plains": "2024-12-05 22:39:58 +0000"
     },
     "done": false
@@ -189,7 +192,8 @@
       "pumpkin_pie": "2024-12-06 22:54:05 +0000",
       "mutton": "2024-12-05 23:09:07 +0000",
       "golden_apple": "2024-12-05 23:43:45 +0000",
-      "rotten_flesh": "2024-12-05 22:20:11 +0000"
+      "rotten_flesh": "2024-12-05 22:20:11 +0000",
+      "golden_carrot": "2024-12-08 01:47:17 +0000"
     },
     "done": false
   },
@@ -323,6 +327,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-05 22:23:09 +0000",
       "minecraft:spider": "2024-12-05 22:02:57 +0000",
+      "minecraft:creeper": "2024-12-08 01:48:48 +0000",
       "minecraft:wither_skeleton": "2024-12-05 23:52:43 +0000",
       "minecraft:cave_spider": "2024-12-06 22:58:23 +0000",
       "minecraft:stray": "2024-12-05 23:44:24 +0000",
@@ -1220,33 +1225,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-07 17:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-07 18:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-07 18:08:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-12-07 17:32:52 +0000"
     },
     "done": true
   },
@@ -1268,9 +1261,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "pumpkin_sir_0": "2024-12-07 18:16:49 +0000"
+      "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 18:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 18:08:10 +0000"
     },
     "done": true
   },
@@ -1280,9 +1285,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
-      "has_red_nether_bricks": "2024-12-07 17:56:51 +0000"
+      "pumpkin_sir_0": "2024-12-07 18:16:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-08 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-08 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 02:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 02:04:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-08 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-08 01:50:19 +0000"
     },
     "done": true
   },
