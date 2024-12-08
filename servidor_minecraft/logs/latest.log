@@ -263,3 +263,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:30:26.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3307, l='ServerLevel[world]', x=-790.95, y=79.00, z=-1184.50] died, message: 'Unemployed was slain by Vindicator'
 [08Dec2024 20:32:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Hero of the Village]
 [08Dec2024 20:32:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has completed the challenge [Hero of the Village]
+[08Dec2024 20:32:49.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported sebasjuega to Judai]
+[08Dec2024 20:33:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has reached the goal [Hunted]
+[08Dec2024 20:34:20.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Judai lost connection: Disconnected
+[08Dec2024 20:34:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai left the game
+[08Dec2024 20:34:20.863] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 20:34:23.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebasjuega lost connection: Timed out
+[08Dec2024 20:34:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega left the game
+[08Dec2024 20:34:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Dec2024 20:34:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 20:34:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 20:34:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 20:34:39.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 20:34:39.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 20:34:39.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 20:34:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 20:34:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 20:34:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 20:34:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Dec2024 20:34:40.002] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
