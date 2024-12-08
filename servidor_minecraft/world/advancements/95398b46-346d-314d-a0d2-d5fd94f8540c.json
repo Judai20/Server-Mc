@@ -32,6 +32,7 @@
       "minecraft:dripstone_caves": "2024-12-05 22:53:30 +0000",
       "minecraft:forest": "2024-12-05 22:35:58 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 01:53:58 +0000",
+      "minecraft:savanna": "2024-12-08 19:52:50 +0000",
       "minecraft:plains": "2024-12-05 22:38:54 +0000"
     },
     "done": false
@@ -1784,6 +1785,42 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed": "2024-12-08 19:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-08 20:09:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2024-12-08 20:09:03 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/combat/bandages": {
+    "criteria": {
+      "cobblestone": "2024-12-08 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/combat/medkit": {
+    "criteria": {
+      "cobblestone": "2024-12-08 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/misc/heart_dust": {
+    "criteria": {
+      "cobblestone": "2024-12-08 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-08 20:09:47 +0000"
     },
     "done": true
   },
