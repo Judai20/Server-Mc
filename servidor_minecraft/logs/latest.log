@@ -213,3 +213,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:04:47.962] [Server thread/INFO] [Jade/]: Syncing config to Judai (95398b46-346d-314d-a0d2-d5fd94f8540c)
 [08Dec2024 20:05:08.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14435ms or 288 ticks behind
 [08Dec2024 20:11:54.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[08Dec2024 20:12:28.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[08Dec2024 20:16:39.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Will I turned into one of them?]
+[08Dec2024 20:21:53.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
