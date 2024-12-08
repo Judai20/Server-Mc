@@ -234,3 +234,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 02:05:47.462] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
 [08Dec2024 02:05:56.845] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
 [08Dec2024 02:07:02.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [Diamonds!]
+[08Dec2024 02:08:46.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebasjuega lost connection: Timed out
+[08Dec2024 02:08:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega left the game
+[08Dec2024 02:08:46.668] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 02:08:49.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Judai lost connection: Timed out
+[08Dec2024 02:08:49.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai left the game
+[08Dec2024 02:09:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Dec2024 02:09:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 02:09:21.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 02:09:21.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 02:09:23.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 02:09:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 02:09:23.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 02:09:23.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 02:09:23.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 02:09:23.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 02:09:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Dec2024 02:09:23.950] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
