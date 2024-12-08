@@ -216,3 +216,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:12:28.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [08Dec2024 20:16:39.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Will I turned into one of them?]
 [08Dec2024 20:21:53.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[08Dec2024 20:24:22.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Vindicator
+[08Dec2024 20:24:22.753] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[08Dec2024 20:24:23.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:24:23.932] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 20:24:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has made the advancement [Voluntary Exile]
+[08Dec2024 20:24:39.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1011, l='ServerLevel[world]', x=-861.20, y=81.00, z=-1258.30] died, message: 'Unemployed suffocated in a wall'
+[08Dec2024 20:25:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Vindicator
+[08Dec2024 20:25:12.089] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[08Dec2024 20:25:12.399] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Dec2024 20:25:12.401] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[08Dec2024 20:25:12.402] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[08Dec2024 20:25:12.403] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[08Dec2024 20:25:12.404] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[08Dec2024 20:25:13.469] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:25:13.471] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 20:26:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has reached the goal [Strong or Careful]
+[08Dec2024 20:26:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai was slain by Ravager
+[08Dec2024 20:26:07.546] [Server thread/INFO] [tombstone/]: The player Judai has successfully been saved
+[08Dec2024 20:26:08.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:26:08.948] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[08Dec2024 20:27:28.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1193, l='ServerLevel[world]', x=-861.58, y=79.00, z=-1255.68] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:27:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has reached the goal [Fortuitous Militia]
+[08Dec2024 20:27:59.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Vindicator
+[08Dec2024 20:27:59.933] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[08Dec2024 20:28:01.239] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:28:01.242] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 20:28:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported Judai to sebasjuega]
+[08Dec2024 20:29:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Ravager
+[08Dec2024 20:29:17.634] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[08Dec2024 20:29:18.977] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:29:18.977] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[08Dec2024 20:29:20.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1197, l='ServerLevel[world]', x=-812.95, y=84.00, z=-1182.71] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:29:29.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega was slain by Ravager
+[08Dec2024 20:29:30.008] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[08Dec2024 20:29:31.414] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:29:31.421] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 20:29:35.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1100, l='ServerLevel[world]', x=-818.92, y=79.00, z=-1188.08] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:29:35.392] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1191, l='ServerLevel[world]', x=-859.30, y=78.00, z=-1243.11] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:29:38.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1200, l='ServerLevel[world]', x=-828.30, y=77.00, z=-1203.49] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:29:41.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1145, l='ServerLevel[world]', x=-825.20, y=76.94, z=-1195.63] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:29:52.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1119, l='ServerLevel[world]', x=-830.33, y=78.06, z=-1196.41] died, message: 'Librarian was slain by Vindicator'
+[08Dec2024 20:29:53.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1007, l='ServerLevel[world]', x=-852.15, y=74.94, z=-1265.34] died, message: 'Toolsmith was shot by Pillager'
+[08Dec2024 20:29:56.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/1017, l='ServerLevel[world]', x=-842.51, y=78.50, z=-1197.55] died, message: 'Cleric was slain by Vindicator'
+[08Dec2024 20:30:05.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1144, l='ServerLevel[world]', x=-840.63, y=81.27, z=-1193.28] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:30:26.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3307, l='ServerLevel[world]', x=-790.95, y=79.00, z=-1184.50] died, message: 'Unemployed was slain by Vindicator'
+[08Dec2024 20:32:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Hero of the Village]
+[08Dec2024 20:32:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega has completed the challenge [Hero of the Village]
