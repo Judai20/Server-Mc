@@ -215,3 +215,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 23:08:51.391] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [10Dec2024 23:08:51.392] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [10Dec2024 23:08:56.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Dec2024 23:27:10.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebasjuega lost connection: Timed out
+[10Dec2024 23:27:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega left the game
+[10Dec2024 23:27:16.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Judai lost connection: Timed out
+[10Dec2024 23:27:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai left the game
