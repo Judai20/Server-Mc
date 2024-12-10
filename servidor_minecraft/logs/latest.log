@@ -204,3 +204,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 22:55:31.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebasjuega[/[::1]:36156] logged in with entity id 1334 at (-969.4135084845133, 85.0, -1245.606947477146)
 [10Dec2024 22:55:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega joined the game
 [10Dec2024 22:55:31.614] [Server thread/INFO] [Jade/]: Syncing config to sebasjuega (75387802-fad1-3210-802c-7b3bedb7715d)
+[10Dec2024 23:02:47.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebasjuega lost connection: Timed out
+[10Dec2024 23:02:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega left the game
+[10Dec2024 23:04:38.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebasjuega[/[::1]:38570] logged in with entity id 2810 at (-966.2479393274205, 83.0, -1196.300000011921)
+[10Dec2024 23:04:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega joined the game
+[10Dec2024 23:04:39.240] [Server thread/INFO] [Jade/]: Syncing config to sebasjuega (75387802-fad1-3210-802c-7b3bedb7715d)
+[10Dec2024 23:04:43.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Dec2024 23:08:49.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebasjuega hit the ground too hard whilst trying to escape Pumpkinhead
+[10Dec2024 23:08:50.077] [Server thread/INFO] [tombstone/]: The player sebasjuega has successfully been saved
+[10Dec2024 23:08:51.391] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 23:08:51.392] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[10Dec2024 23:08:56.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
