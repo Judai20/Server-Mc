@@ -1790,15 +1790,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "tombstone:recipes/from_impregnated_diamond": {
     "criteria": {
-      "has_stone": "2024-12-08 20:10:16 +0000"
+      "has_ingredient": "2024-12-08 20:09:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "scalinghealth:recipes/combat/bandages": {
     "criteria": {
-      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
+      "cobblestone": "2024-12-08 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/combat/medkit": {
+    "criteria": {
+      "cobblestone": "2024-12-08 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/misc/heart_dust": {
+    "criteria": {
+      "cobblestone": "2024-12-08 20:09:25 +0000"
     },
     "done": true
   },
@@ -1808,9 +1820,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-08 20:25:24 +0000"
+      "has_bone_meal": "2024-12-08 20:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-08 20:10:16 +0000"
     },
     "done": true
   },
@@ -1823,12 +1841,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-08 20:10:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_impregnated_diamond": {
-    "criteria": {
-      "has_ingredient": "2024-12-08 20:09:03 +0000"
     },
     "done": true
   },
@@ -1868,39 +1880,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-12-08 20:32:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-08 20:10:16 +0000"
-    },
-    "done": true
-  },
-  "scalinghealth:recipes/combat/bandages": {
-    "criteria": {
-      "cobblestone": "2024-12-08 20:09:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-12-08 20:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
     },
     "done": true
   },
@@ -1922,33 +1904,15 @@
     },
     "done": true
   },
-  "scalinghealth:recipes/combat/medkit": {
-    "criteria": {
-      "cobblestone": "2024-12-08 20:09:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-08 20:10:16 +0000"
     },
     "done": true
   },
-  "orcz:thelivingswordschieve": {
-    "criteria": {
-      "thelivingswordschieve": "2024-12-08 20:16:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-08 20:10:16 +0000"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2024-12-08 20:33:10 +0000"
     },
     "done": true
   },
@@ -1964,15 +1928,45 @@
     },
     "done": true
   },
-  "scalinghealth:recipes/misc/heart_dust": {
-    "criteria": {
-      "cobblestone": "2024-12-08 20:09:25 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2024-12-08 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-08 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-08 20:11:15 +0000"
+    },
+    "done": true
+  },
+  "orcz:thelivingswordschieve": {
+    "criteria": {
+      "thelivingswordschieve": "2024-12-08 20:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-08 20:25:24 +0000"
     },
     "done": true
   },
@@ -1988,15 +1982,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_stone": "2024-12-08 20:10:16 +0000"
+      "coded_trigger": "2024-12-08 20:27:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_bone_meal": "2024-12-08 20:09:47 +0000"
+      "hero_of_the_village": "2024-12-08 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-08 20:33:10 +0000"
     },
     "done": true
   },
