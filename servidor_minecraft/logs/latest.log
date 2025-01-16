@@ -214,3 +214,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jan2025 23:36:37.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Set the time to 1000]
 [16Jan2025 23:37:32.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/896, l='ServerLevel[world]', x=-835.33, y=72.00, z=-1309.70] died, message: 'Nitwit was slain by The Somnolence'
 [16Jan2025 23:38:14.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/895, l='ServerLevel[world]', x=-832.51, y=72.00, z=-1310.95] died, message: 'Unemployed was slain by The Somnolence'
+[16Jan2025 23:42:15.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lianjuega21[/[::1]:59794] logged in with entity id 2641 at (1.5, 108.0, -2.5)
+[16Jan2025 23:42:15.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 joined the game
+[16Jan2025 23:42:16.103] [Server thread/INFO] [Jade/]: Syncing config to lianjuega21 (ad0213d1-3994-39be-8e23-ad3e4831b31a)
+[16Jan2025 23:42:16.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has completed the challenge [The Undead]
+[16Jan2025 23:42:16.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Orcz Challenges]
+[16Jan2025 23:42:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Teleported lianjuega21 to Judai]
+[16Jan2025 23:43:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Alex's Mobs]
+[16Jan2025 23:43:50.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Cover Me with Diamonds]
+[16Jan2025 23:45:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Set the time to 1000]
+[16Jan2025 23:48:35.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/791, l='ServerLevel[world]', x=-773.62, y=76.00, z=-1163.44] died, message: 'Librarian was slain by lianjuega21'
+[16Jan2025 23:48:35.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Knowledge of Death]
+[16Jan2025 23:48:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Neighborhood Brawl]
+[16Jan2025 23:48:56.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 was slain by Scarlet Persecutor
+[16Jan2025 23:48:56.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [Your First Grave]
+[16Jan2025 23:48:56.364] [Server thread/INFO] [tombstone/]: The player lianjuega21 has successfully been saved
+[16Jan2025 23:48:56.427] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jan2025 23:48:56.428] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[16Jan2025 23:48:56.429] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jan2025 23:48:56.430] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jan2025 23:48:56.431] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[16Jan2025 23:48:57.824] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 23:48:57.825] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 23:49:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has reached the goal [Here They Come]
+[16Jan2025 23:49:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 was slain by Bison
+[16Jan2025 23:49:45.630] [Server thread/INFO] [tombstone/]: The player lianjuega21 has successfully been saved
+[16Jan2025 23:49:46.959] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 23:49:46.960] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 23:50:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Judai: Made lianjuega21 a server operator]
