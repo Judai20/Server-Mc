@@ -2015,6 +2015,12 @@
     },
     "done": true
   },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-01-17 00:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-17 00:05:44 +0000"

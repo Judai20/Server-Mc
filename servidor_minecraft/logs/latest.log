@@ -13,3 +13,23 @@
 [17Jan2025 00:10:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has made the advancement [First big catch of the month!]
 [17Jan2025 00:10:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has completed the challenge [Strike upon thee]
 [17Jan2025 00:10:34.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 has completed the challenge [One eyed big skelly]
+[17Jan2025 00:11:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai has completed the challenge [Strike upon thee]
+[17Jan2025 00:14:11.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 was slain by Rhinoceros
+[17Jan2025 00:14:11.805] [Server thread/INFO] [tombstone/]: The player lianjuega21 has successfully been saved
+[17Jan2025 00:14:13.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Judai lost connection: Disconnected
+[17Jan2025 00:14:13.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Judai left the game
+[17Jan2025 00:14:13.679] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 00:14:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 00:14:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 00:14:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 00:14:27.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lianjuega21 lost connection: Server closed
+[17Jan2025 00:14:27.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lianjuega21 left the game
+[17Jan2025 00:14:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 00:14:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 00:14:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 00:14:28.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 00:14:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 00:14:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 00:14:28.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 00:14:28.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jan2025 00:14:28.874] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

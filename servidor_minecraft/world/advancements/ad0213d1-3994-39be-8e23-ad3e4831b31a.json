@@ -1,4 +1,10 @@
 {
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-17 00:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2025-01-16 23:43:58 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 23:44:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-01-17 00:10:34 +0000"
     },
     "done": true
   },
@@ -65,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 23:44:07 +0000"
@@ -101,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-01-16 23:42:16 +0000"
@@ -125,9 +149,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 23:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
     },
     "done": true
   },
@@ -137,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-16 23:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
     },
     "done": true
   },
@@ -155,15 +215,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 23:44:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-01-17 00:05:08 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-01-17 00:10:33 +0000"
     },
     "done": true
   },
@@ -191,6 +269,12 @@
     },
     "done": false
   },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-01-17 00:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-16 23:47:30 +0000"
@@ -209,9 +293,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-16 23:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
     },
     "done": true
   },
@@ -226,6 +328,7 @@
       "minecraft:taiga": "2025-01-16 23:42:17 +0000",
       "minecraft:sparse_jungle": "2025-01-16 23:47:39 +0000",
       "minecraft:desert": "2025-01-17 00:02:51 +0000",
+      "minecraft:savanna": "2025-01-17 00:13:08 +0000",
       "minecraft:plains": "2025-01-16 23:42:46 +0000"
     },
     "done": false
@@ -256,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-17 00:10:14 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-01-16 23:44:07 +0000"
@@ -265,6 +374,18 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-16 23:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 00:12:23 +0000"
     },
     "done": true
   },
